@@ -1,0 +1,15 @@
+body{
+	background-color: #FFFFFF;
+	font-family: Verdana;
+	margin-top: 12%;
+	text-align: center;
+}
+
+#clock{
+	font-weight: 300;
+	font-size: 120px;
+}
+
+#hex{
+	font-weight: 100;
+}
